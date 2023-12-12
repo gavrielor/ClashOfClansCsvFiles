@@ -11,6 +11,7 @@
 "FeatureDarkElixir","TID_FEATURE_DARK_ELIXIR","TID_FEATURE_DARK_ELIXIR_DESC","icon_cj_dark_elixir",0,6,,
 "FeatureHeroes","TID_HEROES_FEATURE","TID_HEROES_FEATURE_DESCRIPTION","icon_cj_heroes",0,6,199999,
 "FeatureSeasonChallenges","TID_FEATURE_SEASON_CHALLENGES","TID_FEATURE_SEASON_CHALLENGES_DESC","icon_cj_goldpass",0,6,,
+"FeatureHeroEquipment","TID_FEATURE_HERO_GEAR","TID_FEATURE_HERO_GEAR_DESC","icon_cj_hero_gear",0,7,,
 "FeatureSuperTroops","TID_SUPER_TROOPS_FEATURE","TID_SUPER_TROOPS_FEATURE_DESCRIPTION","icon_cj_supertroops",0,10,,
 "FeatureSieges","TID_SIEGES_FEATURE","TID_SIEGES_FEATURE_DESCRIPTION","icon_cj_sieges",0,11,599999,
 "FeaturePets","TID_PETS_FEATURE","TID_PETS_FEATURE_DESCRIPTION","icon_cj_pets",0,13,299999,

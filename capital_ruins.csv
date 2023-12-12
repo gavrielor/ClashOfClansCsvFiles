@@ -1047,102 +1047,102 @@
 ,,,,,,,,,,,,,,"Fallen Tree 2",8,3,,,,
 ,,,,,,,,,,,,,,"Fallen Tree 2",4,6,,,,
 ,,,,,,,,,,,,,,"Fallen Tree 2",9,6,,,,
-"BalloonLagoon_Level1_Buildings_5","TID_RUINS_BARRACKS","TID_RUIN_DESC","CapitalResource",10000,1,"Skeleton Barrel Barracks",1,0,0,,,,,,,,,,"Basic Turret Pickup",
-"BoneYard_Level1_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",5500,1,"Cannon",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup",
-,,,,,,"Spear Thrower",1,2,0,,,,,,,,,,"Basic Turret Pickup",
-"BoneYard_Level1_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",9250,1,"Air Defense",1,2,0,"Mine",1,0,3,,,,,,,
+"BalloonLagoon_Level1_Buildings_5","TID_RUINS_BARRACKS","TID_RUIN_DESC","CapitalResource",10000,1,"Skeleton Barrel Barracks",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level1_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",5500,1,"Cannon",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup","TRUE"
+,,,,,,"Spear Thrower",1,2,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level1_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",9250,1,"Air Defense",1,2,0,"Mine",1,0,3,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Bomb Tower",1,3,3,,,,,,,,,,,
 ,,,,,,"Small Cabin",1,1,5,,,,,,,,,,,
-"BoneYard_Level1_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",17500,1,"Super Wizard Tower",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup",
+"BoneYard_Level1_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",17500,1,"Super Wizard Tower",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup","TRUE"
 ,,,,,,"Multi Mortar",1,0,2,,,,,,,,,,,
 ,,,,,,"Cannon",1,2,0,,,,,,,,,,,
 ,,,,,,"Air Defense",1,2,2,,,,,,,,,,,
-"BoneYard_Level1_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",10250,1,"Small Hut",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup",
+"BoneYard_Level1_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",10250,1,"Small Hut",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup","TRUE"
 ,,,,,,"Super Wizard Tower",1,2,0,,,,,,,,,,,
 ,,,,,,"Air Defense",1,4,0,,,,,,,,,,,
-"BoneYard_Level1_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",10500,1,"Wooden House",1,0,0,"Mine",1,3,1,,,,,,"Basic Turret Pickup",
+"BoneYard_Level1_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",10500,1,"Wooden House",1,0,0,"Mine",1,3,1,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Mega Tesla",1,1,3,"Mega Mine",1,3,3,,,,,,,
-"BoneYard_Level1_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",1250,1,"Small Hut",1,0,3,"Mine",1,0,0,,,,,,"Basic Turret Pickup",
-"BoneYard_Level1_Buildings_7","TID_RUINS","TID_RUIN_DESC","CapitalResource",16500,1,"Reflector",1,0,0,"Log Trap",1,0,2,,,,,,"Basic Turret Pickup",
+"BoneYard_Level1_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",1250,1,"Small Hut",1,0,3,"Mine",1,0,0,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level1_Buildings_7","TID_RUINS","TID_RUIN_DESC","CapitalResource",16500,1,"Reflector",1,0,0,"Log Trap",1,0,2,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Reflector",1,0,4,,,,,,,,,,,
-"BoneYard_Level1_Buildings_8","TID_RUINS","TID_RUIN_DESC","CapitalResource",6000,1,"Wooden House",1,0,0,"Log Trap",1,2,3,,,,,,"Basic Turret Pickup",
+"BoneYard_Level1_Buildings_8","TID_RUINS","TID_RUIN_DESC","CapitalResource",6000,1,"Wooden House",1,0,0,"Log Trap",1,2,3,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Multi Cannon",1,3,0,,,,,,,,,,,
-"BoneYard_Level1_Buildings_9","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,1,"Giant Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup",
-"BoneYard_Level1_Buildings_10","TID_RUINS","TID_RUIN_DESC","CapitalResource",13500,1,"Cannon",1,2,0,"Mine",1,5,4,,,,,,"Basic Turret Pickup",
+"BoneYard_Level1_Buildings_9","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,1,"Giant Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level1_Buildings_10","TID_RUINS","TID_RUIN_DESC","CapitalResource",13500,1,"Cannon",1,2,0,"Mine",1,5,4,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Rapid Rockets",1,4,2,,,,,,,,,,,
 ,,,,,,"Bomb Tower",1,0,2,,,,,,,,,,,
-"BoneYard_Level2_Buildings_1","TID_RUINS_SPELL_FACTORY","TID_RUIN_DESC","CapitalResource",21000,2,"Graveyard Spell Factory",1,2,3,,,,,,,,,,"Basic Turret Pickup",
+"BoneYard_Level2_Buildings_1","TID_RUINS_SPELL_FACTORY","TID_RUIN_DESC","CapitalResource",21000,2,"Graveyard Spell Factory",1,2,3,,,,,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Wooden Cabin",1,0,0,,,,,,,,,,,
 ,,,,,,"Wooden House",1,5,5,,,,,,,,,,,
-"BoneYard_Level2_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",17500,2,"Mini-Minion Hive",1,0,0,,,,,,,,,,"Basic Turret Pickup",
-"BoneYard_Level2_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",23500,2,"Multi Mortar",1,0,1,"Log Trap",1,3,0,,,,,,"Basic Turret Pickup",
+"BoneYard_Level2_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",17500,2,"Mini-Minion Hive",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level2_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",23500,2,"Multi Mortar",1,0,1,"Log Trap",1,3,0,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Mega Tesla",1,3,2,,,,,,,,,,,
 ,,,,,,"Bomb Tower",1,0,4,,,,,,,,,,,
 ,,,,,,"Rapid Rockets",1,3,5,,,,,,,,,,,
-"BoneYard_Level2_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,2,"Air Bombs",1,0,3,"Mine",1,1,0,,,,,,"Basic Turret Pickup",
+"BoneYard_Level2_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,2,"Air Bombs",1,0,3,"Mine",1,1,0,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Spear Thrower",1,2,2,,,,,,,,,,,
-"BoneYard_Level2_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",9000,2,"Reflector",1,0,0,"Log Trap",1,0,2,,,,,,"Basic Turret Pickup",
-"BoneYard_Level2_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",6000,2,"Multi Cannon",1,0,0,"Mega Mine",1,2,0,,,,,,"Basic Turret Pickup",
-"BoneYard_Level3_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",12500,3,"Rocket Artillery",1,0,0,,,,,,,,,,"Basic Turret Pickup",
-"BoneYard_Level3_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",16500,3,"Reflector",1,0,0,"Log Trap",1,2,0,,,,,,"Basic Turret Pickup",
+"BoneYard_Level2_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",9000,2,"Reflector",1,0,0,"Log Trap",1,0,2,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level2_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",6000,2,"Multi Cannon",1,0,0,"Mega Mine",1,2,0,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level3_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",12500,3,"Rocket Artillery",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level3_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",16500,3,"Reflector",1,0,0,"Log Trap",1,2,0,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Reflector",1,4,0,,,,,,,,,,,
-"BoneYard_Level3_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",16000,3,"Rapid Rockets",1,1,1,"Zap Trap",1,0,0,,,,,,"Basic Turret Pickup",
+"BoneYard_Level3_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",16000,3,"Rapid Rockets",1,1,1,"Zap Trap",1,0,0,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Spear Thrower",1,1,4,,,,,,,,,,,
 ,,,,,,"Multi Mortar",1,1,7,,,,,,,,,,,
-"BoneYard_Level3_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",7250,3,"Small Hut",1,0,1,"Zap Trap",1,2,0,,,,,,"Basic Turret Pickup",
+"BoneYard_Level3_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",7250,3,"Small Hut",1,0,1,"Zap Trap",1,2,0,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Air Defense",1,0,4,"Mine",1,1,3,,,,,,,
-"BoneYard_Level3_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",9500,3,"Wooden House",1,0,1,,,,,,,,,,"Basic Turret Pickup",
+"BoneYard_Level3_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",9500,3,"Wooden House",1,0,1,,,,,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Spear Thrower",1,3,1,,,,,,,,,,,
 ,,,,,,"Air Bombs",1,6,0,,,,,,,,,,,
-"BoneYard_Level4_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",15000,4,"Rocket Artillery",1,0,0,"Zap Trap",1,3,2,,,,,,"Basic Turret Pickup",
-"BoneYard_Level4_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",18500,4,"Rapid Rockets",1,4,0,,,,,,,,,,"Basic Turret Pickup",
+"BoneYard_Level4_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",15000,4,"Rocket Artillery",1,0,0,"Zap Trap",1,3,2,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level4_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",18500,4,"Rapid Rockets",1,4,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Spear Thrower",1,1,2,,,,,,,,,,,
 ,,,,,,"Reflector",1,4,3,,,,,,,,,,,
 ,,,,,,"Cannon",1,0,5,,,,,,,,,,,
-"BoneYard_Level4_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",7750,4,"Air Defense",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup",
+"BoneYard_Level4_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",7750,4,"Air Defense",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup","TRUE"
 ,,,,,,"Multi Cannon",1,2,0,,,,,,,,,,,
 ,,,,,,"Small Cabin",1,1,2,,,,,,,,,,,
-"BoneYard_Level5_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,5,"Giant Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup",
-"BoneYard_Level5_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",7750,5,"Multi Cannon",1,1,0,,,,,,,,,,"Basic Turret Pickup",
+"BoneYard_Level5_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,5,"Giant Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"BoneYard_Level5_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",7750,5,"Multi Cannon",1,1,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
 ,,,,,,"Small Hut",1,0,2,,,,,,,,,,,
 ,,,,,,"Air Defense",1,1,4,,,,,,,,,,,
-"BoneYard_DecoForest1","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",4000,2,,,,,,,,,"Tree 3",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest1","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",4000,2,,,,,,,,,"Tree 3",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Forest 2x2",1,0,,,,
 ,,,,,,,,,,,,,,"Tree 1",3,1,,,,
 ,,,,,,,,,,,,,,"Tree 2",4,1,,,,
 ,,,,,,,,,,,,,,"Tree 1",6,1,,,,
-"BoneYard_DecoForest2","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3000,2,,,,,,,,,"Forest 2x2",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest2","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3000,2,,,,,,,,,"Forest 2x2",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Tree 3",2,2,,,,
 ,,,,,,,,,,,,,,"Tree 2",3,2,,,,
-"BoneYard_DecoForest3","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3000,2,,,,,,,,,"Forest 2x2",1,0,,,"Tree Pickup",
+"BoneYard_DecoForest3","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3000,2,,,,,,,,,"Forest 2x2",1,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Tree 2",0,2,,,,
 ,,,,,,,,,,,,,,"Tree 2",3,0,,,,
-"BoneYard_DecoForest4","TID_DECO_RUIN_LAKESIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",1500,2,,,,,,,,,"Pine 2",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest4","TID_DECO_RUIN_LAKESIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",1500,2,,,,,,,,,"Pine 2",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Pine 1",2,2,,,,
 ,,,,,,,,,,,,,,"Pine 4",2,3,,,,
-"BoneYard_DecoForest5","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3500,2,,,,,,,,,"Pine 4",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest5","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3500,2,,,,,,,,,"Pine 4",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Forest2 2x2",1,1,,,,
 ,,,,,,,,,,,,,,"Pine 1",0,4,,,,
 ,,,,,,,,,,,,,,"Pine 2",1,4,,,,
-"BoneYard_DecoForest6","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3500,2,,,,,,,,,"Pine 2",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest6","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3500,2,,,,,,,,,"Pine 2",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Forest2 2x2",0,2,,,,
 ,,,,,,,,,,,,,,"Pine 3",2,4,,,,
 ,,,,,,,,,,,,,,"Pine 2",3,5,,,,
-"BoneYard_DecoForest7","TID_DECO_RUIN_LAKESIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2000,2,,,,,,,,,"Pine 1",0,2,,,"Tree Pickup",
+"BoneYard_DecoForest7","TID_DECO_RUIN_LAKESIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2000,2,,,,,,,,,"Pine 1",0,2,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Pine 2",1,1,,,,
 ,,,,,,,,,,,,,,"Pine 3",2,0,,,,
 ,,,,,,,,,,,,,,"Pine 4",1,2,,,,
-"BoneYard_DecoForest8","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2500,2,,,,,,,,,"Pine 3",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest8","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2500,2,,,,,,,,,"Pine 3",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Forest2 2x2",0,2,,,,
-"BoneYard_DecoForest9","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2500,2,,,,,,,,,"Tree 3",0,0,,,"Tree Pickup",
+"BoneYard_DecoForest9","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2500,2,,,,,,,,,"Tree 3",0,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Forest 2x2",0,1,,,,
-"BoneYard_DecoForest10","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6500,2,,,,,,,,,"Tree 1",1,0,,,"Tree Pickup",
+"BoneYard_DecoForest10","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6500,2,,,,,,,,,"Tree 1",1,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Tree 2",1,1,,,,
 ,,,,,,,,,,,,,,"Tree 2",1,2,,,,
 ,,,,,,,,,,,,,,"Forest 3x3",0,3,,,,
 ,,,,,,,,,,,,,,"Tree 2",0,8,,,,
 ,,,,,,,,,,,,,,"Tree 3",0,6,,,,
-"BoneYard_DecoForest11","TID_DECO_RUIN_LARGE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",27500,2,,,,,,,,,"Pine 2",8,0,,,"Tree Pickup",
+"BoneYard_DecoForest11","TID_DECO_RUIN_LARGE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",27500,2,,,,,,,,,"Pine 2",8,0,,,"Tree Pickup","TRUE"
 ,,,,,,,,,,,,,,"Pine 2",8,1,,,,
 ,,,,,,,,,,,,,,"Pine 2",5,8,,,,
 ,,,,,,,,,,,,,,"Pine 2",0,10,,,,
@@ -1159,7 +1159,7 @@
 ,,,,,,,,,,,,,,"Tree 3",12,1,,,,
 ,,,,,,,,,,,,,,"Tree 3",8,5,,,,
 ,,,,,,,,,,,,,,"Tree 3",2,14,,,,
-"BoneYard_DecoPillars1","TID_DECO_RUIN_RUINED_PILLARS","TID_DECO_RUIN_DESC","CapitalResource",18000,2,,,,,,,,,"Pillar 02",0,3,,,"Stone Pickup",
+"BoneYard_DecoPillars1","TID_DECO_RUIN_RUINED_PILLARS","TID_DECO_RUIN_DESC","CapitalResource",18000,2,,,,,,,,,"Pillar 02",0,3,,,"Stone Pickup","TRUE"
 ,,,,,,,,,,,,,,"Pillar 02",3,3,,,,
 ,,,,,,,,,,,,,,"Pillar 02",4,1,,,,
 ,,,,,,,,,,,,,,"Tree 2",6,0,,,,
@@ -1168,7 +1168,7 @@
 ,,,,,,,,,,,,,,"Tree 2",5,5,,,,
 ,,,,,,,,,,,,,,"Fallen Tree 1",6,3,,,,
 ,,,,,,,,,,,,,,"Fallen Tree 1",1,5,,,,
-"BoneYard_Tombs1","TID_DECO_RUIN_OLD_TOMBS","TID_DECO_RUIN_DESC","CapitalResource",14000,1,,,,,,,,,"Tomb",0,0,,,"Basic Turret Pickup",
+"BoneYard_Tombs1","TID_DECO_RUIN_OLD_TOMBS","TID_DECO_RUIN_DESC","CapitalResource",14000,1,,,,,,,,,"Tomb",0,0,,,"Basic Turret Pickup","TRUE"
 ,,,,,,,,,,,,,,"Tomb 2",0,1,,,,
 ,,,,,,,,,,,,,,"Tomb 3",0,2,,,,
 ,,,,,,,,,,,,,,"Tomb",0,3,,,,
@@ -1196,7 +1196,7 @@
 ,,,,,,,,,,,,,,"Tomb 2",6,4,,,,
 ,,,,,,,,,,,,,,"Tomb 3",6,11,,,,
 ,,,,,,,,,,,,,,"Tomb",6,15,,,,
-"BoneYard_Tombs2","TID_DECO_RUIN_OLD_TOMBS","TID_DECO_RUIN_DESC","CapitalResource",17500,2,,,,,,,,,"Tomb 2",0,0,,,"Basic Turret Pickup",
+"BoneYard_Tombs2","TID_DECO_RUIN_OLD_TOMBS","TID_DECO_RUIN_DESC","CapitalResource",17500,2,,,,,,,,,"Tomb 2",0,0,,,"Basic Turret Pickup","TRUE"
 ,,,,,,,,,,,,,,"Tomb 3",0,1,,,,
 ,,,,,,,,,,,,,,"Tomb",0,2,,,,
 ,,,,,,,,,,,,,,"Tomb 2",0,3,,,,
@@ -1231,7 +1231,7 @@
 ,,,,,,,,,,,,,,"Tomb",11,12,,,,
 ,,,,,,,,,,,,,,"Tomb 2",11,13,,,,
 ,,,,,,,,,,,,,,"Tomb 3",11,14,,,,
-"BoneYard_Tombs3","TID_DECO_RUIN_OLD_TOMBS","TID_DECO_RUIN_DESC","CapitalResource",20500,3,,,,,,,,,"Tomb",0,1,,,"Basic Turret Pickup",
+"BoneYard_Tombs3","TID_DECO_RUIN_OLD_TOMBS","TID_DECO_RUIN_DESC","CapitalResource",20500,3,,,,,,,,,"Tomb",0,1,,,"Basic Turret Pickup","TRUE"
 ,,,,,,,,,,,,,,"Tomb 2",0,2,,,,
 ,,,,,,,,,,,,,,"Tomb 3",0,3,,,,
 ,,,,,,,,,,,,,,"Tomb",0,6,,,,
@@ -1275,3 +1275,159 @@
 "Deco Tomb","TID_OBSTACLE_TOMBSTONE","TID_DECO_RUIN_DESC","CapitalResource",500,1,,,,,,,,,"Tomb",0,0,,,"Generic Pick Up",
 "Deco Tomb 2","TID_OBSTACLE_TOMBSTONE","TID_DECO_RUIN_DESC","CapitalResource",500,1,,,,,,,,,"Tomb 2",0,0,,,"Generic Pick Up",
 "Deco Tomb 3","TID_OBSTACLE_TOMBSTONE","TID_DECO_RUIN_DESC","CapitalResource",500,1,,,,,,,,,"Tomb 3",0,0,,,"Generic Pick Up",
+"GoblinMines_Level1_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",5500,1,"Goblin Post",1,2,0,"Log Trap",1,0,2,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Goblin Post",1,2,3,,,,,,,,,,,
+,,,,,,"Spear Thrower",1,1,5,,,,,,,,,,,
+"GoblinMines_Level1_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",16000,1,"Goblin Thrower",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level1_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",13000,1,"Multi Mortar",1,0,0,"Spear Trap",1,2,1,"Fireplace",2,5,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Air Defense",1,4,1,,,,,,,,,,,
+,,,,,,"Goblin Post",1,0,4,,,,,,,,,,,
+,,,,,,"Goblin Post",1,2,3,,,,,,,,,,,
+,,,,,,"Goblin Hut",1,4,4,,,,,,,,,,,
+"GoblinMines_Level1_Buildings_4","TID_RUINS_BARRACKS","TID_RUIN_DESC","CapitalResource",17500,1,"Super Miner Barracks",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level1_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",2000,1,"Goblin Hut",1,0,0,"Mine",1,1,5,"Fireplace",1,2,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Goblin Hut",1,0,3,,,,,,,,,,,
+"GoblinMines_Level1_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",2000,1,"Goblin Hall",1,0,1,"Mine",1,1,0,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level1_Buildings_7","TID_RUINS","TID_RUIN_DESC","CapitalResource",2500,1,"Goblin Post",1,3,0,"Mega Mine",1,1,0,"Fireplace",0,1,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level1_Buildings_8","TID_RUINS","TID_RUIN_DESC","CapitalResource",4500,1,"Goblin Hut",1,0,0,"Mine",1,2,0,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Spear Thrower",1,3,1,,,,,,,,,,,
+"GoblinMines_Level1_Buildings_9","TID_RUINS","TID_RUIN_DESC","CapitalResource",10000,1,"Multi Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Air Bombs",1,0,2,,,,,,,,,,,
+"GoblinMines_Level1_Buildings_10","TID_RUINS","TID_RUIN_DESC","CapitalResource",1500,1,"Goblin Hut",1,3,0,,,,,"Fireplace",4,3,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Goblin Post",1,0,3,,,,,,,,,,,
+,,,,,,"Goblin Hut",1,2,3,,,,,,,,,,,
+"GoblinMines_Level1_Buildings_11","TID_RUINS","TID_RUIN_DESC","CapitalResource",24500,1,"Goblin Thrower",1,0,0,"Spear Trap",1,3,2,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Rapid Rockets",1,1,3,,,,,,,,,,,
+"GoblinMines_Level2_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",20000,2,"Spear Thrower",1,2,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Crusher",1,1,2,,,,,,,,,,,
+,,,,,,"Mega Tesla",1,0,4,,,,,,,,,,,
+,,,,,,"Air Bombs",1,2,5,,,,,,,,,,,
+"GoblinMines_Level2_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",18500,2,"Rapid Rockets",1,0,1,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Reflector",1,2,0,,,,,,,,,,,
+,,,,,,"Rapid Rockets",1,4,1,,,,,,,,,,,
+"GoblinMines_Level2_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",5000,2,"Cannon",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup","TRUE"
+,,,,,,"Cannon",1,2,0,,,,,,,,,,,
+"GoblinMines_Level2_Buildings_4","TID_RUINS_SPELL_FACTORY","TID_RUIN_DESC","CapitalResource",25000,2,"Endless Haste Spell Factory",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level2_Buildings_5","TID_RUINS_BARRACKS","TID_RUIN_DESC","CapitalResource",37500,2,"Mega Sparky Barracks",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level2_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",7500,2,"Multi Mortar",1,1,0,"Zap Trap",1,0,1,,,,"Wall",1,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level2_Buildings_7","TID_RUINS","TID_RUIN_DESC","CapitalResource",16500,2,"Giant Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Super Wizard Tower",1,1,3,,,,,,,,,,,
+"GoblinMines_Level2_Traps_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",5000,2,,,,,"Spear Trap",1,0,0,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,,,,,"Mega Mine",1,0,2,,,,,,,
+"GoblinMines_Level3_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",23000,3,"Mini-Minion Hive",1,0,0,"Zap Trap",1,0,3,,,,"Wall",1,"Basic Turret Pickup","TRUE"
+,,,,,,,,,,"Spear Trap",1,1,3,,,,,,,
+"GoblinMines_Level3_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",17000,3,"Inferno Tower",1,0,0,"Mega Mine",1,1,3,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level3_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",16000,3,"Rapid Rockets",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Rapid Rockets",1,2,0,,,,,,,,,,,
+,,,,,,"Cannon",1,4,0,,,,,,,,,,,
+,,,,,,"Cannon",1,6,0,,,,,,,,,,,
+"GoblinMines_Level3_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",16500,3,"Multi Mortar",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Crusher",1,0,2,,,,,,,,,,,
+,,,,,,"Reflector",1,0,4,,,,,,,,,,,
+"GoblinMines_Level3_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",16000,3,"Goblin Thrower",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level3_Buildings_6","TID_RUINS","TID_RUIN_DESC","CapitalResource",17500,3,"Bomb Tower",1,2,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Spear Thrower",1,0,2,,,,,,,,,,,
+,,,,,,"Air Defense",1,2,2,,,,,,,,,,,
+,,,,,,"Super Wizard Tower",1,1,4,,,,,,,,,,,
+"GoblinMines_Level4_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",17500,4,"Mega Tesla",1,0,1,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Spear Thrower",1,2,0,,,,,,,,,,,
+,,,,,,"Reflector",1,4,1,,,,,,,,,,,
+"GoblinMines_Level4_Buildings_2","TID_RUINS","TID_RUIN_DESC","CapitalResource",20000,4,"Blast Bow",1,0,0,,,,,,,,"Wall",1,"Basic Turret Pickup","TRUE"
+"GoblinMines_Level4_Buildings_3","TID_RUINS","TID_RUIN_DESC","CapitalResource",5000,4,"Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Cannon",1,1,2,,,,,,,,,,,
+"GoblinMines_Level4_Buildings_4","TID_RUINS","TID_RUIN_DESC","CapitalResource",20000,4,"Mega Tesla",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Reflector",1,2,1,,,,,,,,,,,
+,,,,,,"Rapid Rockets",1,0,2,,,,,,,,,,,
+"GoblinMines_Level4_Buildings_5","TID_RUINS","TID_RUIN_DESC","CapitalResource",10500,4,"Rapid Rockets",1,1,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Multi Mortar",1,0,2,,,,,,,,,,,
+"GoblinMines_Level4_Traps_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",5500,4,,,,,"Log Trap",1,0,0,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,,,,,"Spear Trap",1,0,2,,,,,,,
+,,,,,,,,,,"Mine",1,2,2,,,,,,,
+"GoblinMines_Level5_Buildings_1","TID_RUINS","TID_RUIN_DESC","CapitalResource",22000,5,"Cannon",1,0,0,,,,,,,,,,"Basic Turret Pickup","TRUE"
+,,,,,,"Air Defense",1,2,2,,,,,,,,,,,
+,,,,,,"Goblin Thrower",1,4,0,,,,,,,,,,,
+"Deco Mining Cart","TID_DECO_MINE_CART","TID_DECO_RUIN_DESC","CapitalResource",5000,1,,,,,,,,,"Mining Cart",0,0,,,"Generic Pick Up",
+"Deco Mining Cart a","TID_DECO_MINE_CART","TID_DECO_RUIN_DESC","CapitalResource",5000,1,,,,,,,,,"Mining Cart a",0,0,,,"Generic Pick Up",
+"Deco Goblin King Statue","TID_DECO_GOBLIN_KING_STATUE","TID_DECO_RUIN_DESC","CapitalResource",20000,1,,,,,,,,,"Goblin King Statue",0,0,,,"Mortar Pickup",
+"GoblinMines_DecoForest1","TID_DECO_RUIN_LARGE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6500,1,,,,,,,,,"Forest 3x3",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 1",3,0,,,,
+,,,,,,,,,,,,,,"Tree 3",0,4,,,,
+,,,,,,,,,,,,,,"Tree 2",1,4,,,,
+,,,,,,,,,,,,,,"Tree 3",2,4,,,,
+,,,,,,,,,,,,,,"Tree 1",0,5,,,,
+"GoblinMines_DecoForest2","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3000,1,,,,,,,,,"Tree 1",3,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Forest 2x2",0,1,,,,
+,,,,,,,,,,,,,,"Tree 3",2,1,,,,
+"GoblinMines_DecoForest3","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",10000,1,,,,,,,,,"Tree 1",1,1,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 2",1,2,,,,
+,,,,,,,,,,,,,,"Forest 2x2",2,0,,,,
+,,,,,,,,,,,,,,"Tree 2",4,0,,,,
+,,,,,,,,,,,,,,"Forest 2x2",1,3,,,,
+,,,,,,,,,,,,,,"Forest 3x3",0,5,,,,
+,,,,,,,,,,,,,,"Tree 3",3,5,,,,
+"GoblinMines_DecoForest4","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6000,1,,,,,,,,,"Tree 2",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Forest 2x2",0,1,,,,
+,,,,,,,,,,,,,,"Tree 3",2,2,,,,
+,,,,,,,,,,,,,,"Forest 2x2",2,3,,,,
+,,,,,,,,,,,,,,"Tree 1",4,5,,,,
+,,,,,,,,,,,,,,"Tree 3",4,6,,,,
+"GoblinMines_DecoForest5","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",4500,1,,,,,,,,,"Forest 2x2",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Forest 2x2",2,0,,,,
+,,,,,,,,,,,,,,"Tree 3",4,0,,,,
+"GoblinMines_DecoForest6","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6000,1,,,,,,,,,"Tree 1",0,1,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 3",1,0,,,,
+,,,,,,,,,,,,,,"Tree 1",2,0,,,,
+,,,,,,,,,,,,,,"Forest 3x3",1,1,,,,
+,,,,,,,,,,,,,,"Tree 2",4,4,,,,
+"GoblinMines_DecoForest7","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3500,1,,,,,,,,,"Tree 2",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 3",0,1,,,,
+,,,,,,,,,,,,,,"Forest 2x2",0,2,,,,
+,,,,,,,,,,,,,,"Tree 1",0,4,,,,
+"GoblinMines_DecoForest8","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",5500,1,,,,,,,,,"Tree 1",2,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Forest 2x2",1,1,,,,
+,,,,,,,,,,,,,,"Tree 2",1,3,,,,
+,,,,,,,,,,,,,,"Forest 2x2",0,4,,,,
+,,,,,,,,,,,,,,"Tree 2",0,6,,,,
+"GoblinMines_DecoForest9","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6000,1,,,,,,,,,"Forest 2x2",0,3,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 3",2,1,,,,
+,,,,,,,,,,,,,,"Tree 1",2,2,,,,
+,,,,,,,,,,,,,,"Tree 2",2,3,,,,
+,,,,,,,,,,,,,,"Forest 2x2",3,0,,,,
+,,,,,,,,,,,,,,"Tree 1",5,0,,,,
+"GoblinMines_DecoForest10","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",8000,1,,,,,,,,,"Tree 2",0,3,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 1",1,3,,,,
+,,,,,,,,,,,,,,"Forest 2x2",3,3,,,,
+,,,,,,,,,,,,,,"Tree 1",4,2,,,,
+,,,,,,,,,,,,,,"Forest 2x2",5,2,,,,
+,,,,,,,,,,,,,,"Tree 3",7,2,,,,
+,,,,,,,,,,,,,,"Forest 2x2",8,0,,,,
+"GoblinMines_DecoForest11","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",5500,1,,,,,,,,,"Tree 2",0,4,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 1",2,2,,,,
+,,,,,,,,,,,,,,"Forest 2x2",3,1,,,,
+,,,,,,,,,,,,,,"Tree 1",5,1,,,,
+,,,,,,,,,,,,,,"Forest 2x2",7,0,,,,
+"GoblinMines_DecoForest12","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",6500,2,,,,,,,,,"Tree 3",6,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Forest 2x2",4,0,,,,
+,,,,,,,,,,,,,,"Tree 1",4,2,,,,
+,,,,,,,,,,,,,,"Forest 2x2",2,3,,,,
+,,,,,,,,,,,,,,"Tree 1",2,5,,,,
+,,,,,,,,,,,,,,"Tree 2",0,7,,,,
+,,,,,,,,,,,,,,"Tree 2",0,8,,,,
+"GoblinMines_DecoForest13","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",4000,1,,,,,,,,,"Tree 2",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 3",3,0,,,,
+,,,,,,,,,,,,,,"Forest 2x2",4,1,,,,
+,,,,,,,,,,,,,,"Tree 1",7,4,,,,
+,,,,,,,,,,,,,,"Tree 1",7,5,,,,
+"GoblinMines_DecoForest14","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",3000,2,,,,,,,,,"Tree 1",0,4,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Forest 2x2",1,2,,,,
+,,,,,,,,,,,,,,"Tree 1",5,0,,,,
+"GoblinMines_DecoForest15","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2500,2,,,,,,,,,"Forest 2x2",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 3",2,1,,,,
+"GoblinMines_DecoForest16","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",2500,2,,,,,,,,,"Forest 2x2",0,0,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 3",0,2,,,,
+"GoblinMines_DecoForest17","TID_DECO_RUIN_CLIFFSIDE_FOREST","TID_DECO_RUIN_DESC","CapitalResource",8000,2,,,,,,,,,"Tree 1",0,1,,,"Tree Pickup",
+,,,,,,,,,,,,,,"Tree 2",1,1,,,,
+,,,,,,,,,,,,,,"Tree 3",1,0,,,,
+,,,,,,,,,,,,,,"Forest 3x3",2,0,,,,
+,,,,,,,,,,,,,,"Tree 1",4,3,,,,
+,,,,,,,,,,,,,,"Forest 2x2",5,2,,,,

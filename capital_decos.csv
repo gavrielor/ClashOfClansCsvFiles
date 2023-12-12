@@ -26,3 +26,6 @@
 "Tomb",,"TID_OBSTACLE_TOMBSTONE",,"sc/buildings_cc.sc","tombstone_1_cc",,,"Diamonds",500,,1,1,1,1,,0,,,"TRUE",,,,,,,,,,,"Stone Pickup",
 "Tomb 2",,"TID_OBSTACLE_TOMBSTONE",,"sc/buildings_cc.sc","tombstone_2_cc",,,"Diamonds",500,,1,1,1,1,,0,,,"TRUE",,,,,,,,,,,"Stone Pickup",
 "Tomb 3",,"TID_OBSTACLE_TOMBSTONE",,"sc/buildings_cc.sc","tombstone_3_cc",,,"Diamonds",500,,1,1,1,1,,0,,,"TRUE",,,,,,,,,,,"Stone Pickup",
+"Mining Cart",,"TID_DECO_MINE_CART",,"sc/buildings_cc.sc","obstacles_goblin_miningcart_1x1",,,"Diamonds",500,,1,1,1,1,,0,,,"TRUE",,,,,,,,,,,"Generic Pick Up",
+"Mining Cart a",,"TID_DECO_MINE_CART",,"sc/buildings_cc.sc","obstacles_goblin_miningcart_1x1_a",,,"Diamonds",500,,1,1,1,1,,0,,,"TRUE",,,,,,,,,,,"Generic Pick Up",
+"Goblin King Statue",,"TID_DECO_GOBLIN_KING_STATUE",,"sc/buildings_cc.sc","cc_deco_goblinking_statue",,"cc_deco_goblinking_statue_ruin","Diamonds",500,,1,2,2,1,,0,,,"TRUE",,,,,,,,,,,"Mortar Pickup",
